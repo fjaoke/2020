@@ -3,7 +3,8 @@
 
 [【网页版 GitHub】简单操作](https://blog.csdn.net/weixin_42567789/article/details/108951447?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 
-[入门级：GitHub和Git超超超详细使用教程！](https://blog.csdn.net/JavaAndroid730/article/details/53522872?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
+[入门级：GitHub和Git超超超详细使用教程！]
+(https://blog.csdn.net/JavaAndroid730/article/details/53522872?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 
 [在GitHub上搭建个人主页](https://blog.csdn.net/hohaizx/article/details/85066248?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param
 
