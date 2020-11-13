@@ -45,3 +45,24 @@ https://blog.csdn.net/qq_31796651/article/details/80803599
 3. 项目3  
    * 项目1 （一个*号会显示为一个黑点，注意⚠️有空格，否则直接显示为*项目1） 
    * 项目2   
+
+如何提交
+
+
+----
+【VSCode教程】3分钟配置GitHub、0命令行操作、超详细步骤！！
+https://blog.csdn.net/reykou/article/details/104773190/
+
+使用VSCode如何从github拉取项目
+https://blog.csdn.net/sunqy1995/article/details/81517159
+
+vscode中配置Github
+https://www.jianshu.com/p/54cbbc2ad841
+
+VSCode中使用 GitHub
+https://www.cnblogs.com/pxuan/p/12536747.html
+
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+https://github.com/microsoft/vscode
+
