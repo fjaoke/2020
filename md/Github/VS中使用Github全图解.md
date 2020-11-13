@@ -22,3 +22,5 @@ The project only supports conversions from Visual Studio 2005 through Visual Stu
 
 [使用vscode操作git的几种方法](https://blog.csdn.net/qq_25503949/article/details/106223562?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 
+git仓库 与vscode连接 与ssh密钥的相关配置
+https://blog.csdn.net/qq_25503949/article/details/106221861
