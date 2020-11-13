@@ -80,6 +80,7 @@ v.	使能够; 使有机会; 使成为可能; 使可行; 使实现;
 
 原文
 > The Cortex Microcontroller Software Interface Standard (CMSIS) provides a software framework for embedded applications that run on Cortex-M based microcontrollers and Cortex-A5/A7/A9 based processors. CMSIS was started in 2008. It is a close cooperation with various silicon and software vendors.
+
 > CMSIS enables consistent and simple software interfaces to the processor and the peripherals, simplifying software reuse, reducing the learning curve for microcontroller developers.
 
 
@@ -87,5 +88,6 @@ v.	使能够; 使有机会; 使成为可能; 使可行; 使实现;
 
 翻译
 > Cortex 系列微控制器软件接口标准(CMSIS)提供了一个（种）嵌入式软件框架，用于运行在基于Cortex-M微控制器和基于Cortex-A5/A7/A9 处理器。CMSIS 于2008年启动。它与各种硅和软件供应商密切合作（网页翻译）。
+
 > CMSIS 让微处理器开发者为处理器和外围器件提供简单一致的接口，简化软件开发，减少学习成本本（简化学习曲线、缩短学习曲线、拉直学习曲线）成为可能。
 
